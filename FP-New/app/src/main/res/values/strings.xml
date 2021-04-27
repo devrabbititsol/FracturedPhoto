@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fractured Photo</string>
+    <string name="Preview">Preview</string>
+
+    <string-array name="predefinedNumOfPieces">
+        <item>16</item>
+        <item>25</item>
+        <item>36</item>
+    </string-array>
+
+    <string name="in_app">Tap here to remove ads.</string>
+
+    <!--<string name="banner_ad_unit_id">ca-app-pub-5113536624782226/9616500197</string> THIS WAS OLD, FOLLOWING TWO ARE LATEST-->
+    <string name="banner_ad_unit_id">ca-app-pub-6877482360699599/1883662230</string>
+    <!--<string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string> this is just example id taken from SOF-->
+    <string name="adMobAppId">ca-app-pub-6877482360699599~1639309463</string>
+    <string name="app_id_fb">544841665618524</string>
+    <string name="no_network">You are offline. Please try again later.</string>
+
+</resources>

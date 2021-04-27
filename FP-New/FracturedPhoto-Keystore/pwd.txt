@@ -1,0 +1,6 @@
+fracturedphoto123
+
+key alias : fracturedphoto
+keystore password & key password should be same : fracturedphoto123
+
+Release Keyhash for FB: XbtwGbjWVCBKEMppV1xfZCVzAUE=

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "659943348499",
+    "firebase_url": "https://sage-cycling-767.firebaseio.com",
+    "project_id": "sage-cycling-767",
+    "storage_bucket": "sage-cycling-767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659943348499:android:489fce9513cfd248ac22e6",
+        "android_client_info": {
+          "package_name": "com.dran.fracturedphoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659943348499-9as3mf24q5mtdqdlvq8l9p882nvp9eo1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3HFNf3eoNgoz2SgOilymzaDZI0VuVewU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659943348499-9as3mf24q5mtdqdlvq8l9p882nvp9eo1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
